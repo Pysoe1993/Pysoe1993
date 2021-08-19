@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pysoe1993
 - 👀 I’m interested in teaching
-- 🌱 I’m currently learning Mater Degree in Environmental Engineering
+- 🌱 I’m currently learning Master Degree in Environmental Engineering
 - 💞️ I’m looking to collaborate on GitHub Education
 - 📫 My mail is paingset.s@ku.th
 
